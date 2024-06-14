@@ -1,0 +1,19 @@
+button  {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  background-color: #dee0e6;
+  border-radius: 8px;
+  border: none;
+  padding: 10px;
+  margin-top: 2.5rem;
+  color: rgb(46, 75, 156);
+  margin: 2rem;
+  display: block;
+  transition
+}
+
+.contact :hover {
+  background-color: #c76c62;
+  display: block;
+  transform: rotate(-10deg);
+}
